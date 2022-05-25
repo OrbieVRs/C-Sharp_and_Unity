@@ -59,7 +59,8 @@ namespace loops
             char[] asciiArt = lines.ToCharArray();
 
 
-            while(j < 45) {
+            do
+            {
                 while (i < 115)
                 {
 
@@ -69,7 +70,7 @@ namespace loops
                 }
                 Console.Write("\n");
                 j++;
-            }
+            } while (j < 45);
         }
     }
 }
