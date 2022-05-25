@@ -1,0 +1,14 @@
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\bin\Debug\netcoreapp3.1\Anonymous Income Comparison Program.exe
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\bin\Debug\netcoreapp3.1\Anonymous Income Comparison Program.deps.json
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\bin\Debug\netcoreapp3.1\Anonymous Income Comparison Program.runtimeconfig.json
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\bin\Debug\netcoreapp3.1\Anonymous Income Comparison Program.runtimeconfig.dev.json
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\bin\Debug\netcoreapp3.1\Anonymous Income Comparison Program.dll
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\bin\Debug\netcoreapp3.1\Anonymous Income Comparison Program.pdb
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\netcoreapp3.1\Anonymous Income Comparison Program.csproj.AssemblyReference.cache
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\netcoreapp3.1\Anonymous Income Comparison Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\netcoreapp3.1\Anonymous Income Comparison Program.AssemblyInfoInputs.cache
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\netcoreapp3.1\Anonymous Income Comparison Program.AssemblyInfo.cs
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\netcoreapp3.1\Anonymous Income Comparison Program.csproj.CoreCompileInputs.cache
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\netcoreapp3.1\Anonymous Income Comparison Program.dll
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\netcoreapp3.1\Anonymous Income Comparison Program.pdb
+E:\BootCamp\Projects\C-Sharp_and_Unity\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\netcoreapp3.1\Anonymous Income Comparison Program.genruntimeconfig.cache
