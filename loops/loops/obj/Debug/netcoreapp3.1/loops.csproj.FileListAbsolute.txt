@@ -1,0 +1,14 @@
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\bin\Debug\netcoreapp3.1\loops.exe
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\bin\Debug\netcoreapp3.1\loops.deps.json
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\bin\Debug\netcoreapp3.1\loops.runtimeconfig.json
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\bin\Debug\netcoreapp3.1\loops.runtimeconfig.dev.json
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\bin\Debug\netcoreapp3.1\loops.dll
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\bin\Debug\netcoreapp3.1\loops.pdb
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\obj\Debug\netcoreapp3.1\loops.csproj.AssemblyReference.cache
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\obj\Debug\netcoreapp3.1\loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\obj\Debug\netcoreapp3.1\loops.AssemblyInfoInputs.cache
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\obj\Debug\netcoreapp3.1\loops.AssemblyInfo.cs
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\obj\Debug\netcoreapp3.1\loops.csproj.CoreCompileInputs.cache
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\obj\Debug\netcoreapp3.1\loops.dll
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\obj\Debug\netcoreapp3.1\loops.pdb
+E:\BootCamp\Projects\C-Sharp_and_Unity\loops\loops\obj\Debug\netcoreapp3.1\loops.genruntimeconfig.cache
