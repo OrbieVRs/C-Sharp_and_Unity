@@ -7,6 +7,7 @@ namespace _6_part_assignment
     {
         static void Main(string[] args)
         {
+            
             int j = 0,
                 intTemp;
             string[] adLib =
@@ -97,6 +98,38 @@ namespace _6_part_assignment
             if (!defaultCheck)
             {
                 Console.WriteLine(intTemp + " is not in the index");
+            }
+
+            
+            // Part 6
+            List<string> animals = new List<string>();
+            animals.Add("Dog");
+            animals.Add("Cat");
+            animals.Add("Wolf");
+            animals.Add("Penguin");
+            animals.Add("Fox");
+            animals.Add("Dragon");
+            animals.Add("Cat");
+            animals.Add("Snake");
+            animals.Add("Protogen");
+            animals.Add("Pig");
+            animals.Add("Lion");
+            Console.WriteLine("");
+            foreach (string count in animals) 
+            {
+                int i = 0;
+                bool duplicateCheck = false;
+                while (i <animals.Count)
+                {
+                    if(count == animals[i])
+                    {
+                        duplicateCheck = true;
+                    }
+                }
+                if (duplicateCheck)
+                {
+                    Console.WriteLine(count);
+                }
             }
         }
     }

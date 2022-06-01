@@ -1,0 +1,14 @@
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\bin\Debug\netcoreapp3.1\6 part assignment.exe
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\bin\Debug\netcoreapp3.1\6 part assignment.deps.json
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\bin\Debug\netcoreapp3.1\6 part assignment.runtimeconfig.json
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\bin\Debug\netcoreapp3.1\6 part assignment.runtimeconfig.dev.json
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\bin\Debug\netcoreapp3.1\6 part assignment.dll
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\bin\Debug\netcoreapp3.1\6 part assignment.pdb
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\obj\Debug\netcoreapp3.1\6 part assignment.csproj.AssemblyReference.cache
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\obj\Debug\netcoreapp3.1\6 part assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\obj\Debug\netcoreapp3.1\6 part assignment.AssemblyInfoInputs.cache
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\obj\Debug\netcoreapp3.1\6 part assignment.AssemblyInfo.cs
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\obj\Debug\netcoreapp3.1\6 part assignment.csproj.CoreCompileInputs.cache
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\obj\Debug\netcoreapp3.1\6 part assignment.dll
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\obj\Debug\netcoreapp3.1\6 part assignment.pdb
+E:\BootCamp\Projects\C-Sharp_and_Unity\6 part assignment\6 part assignment\obj\Debug\netcoreapp3.1\6 part assignment.genruntimeconfig.cache
