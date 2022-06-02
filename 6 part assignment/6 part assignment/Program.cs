@@ -56,7 +56,8 @@ namespace _6_part_assignment
                 adLib[i] = adLib[i] + temp;
                 Console.WriteLine(i + ". " + adLib[i]);
             }
-            /* infinite loop
+            /* 
+            infinite loop
             while (j < 10);
             {
                 j++;
@@ -99,7 +100,7 @@ namespace _6_part_assignment
             {
                 Console.WriteLine(intTemp + " is not in the index");
             }
-
+            
             
             // Part 6
             List<string> animals = new List<string>();
@@ -115,22 +116,33 @@ namespace _6_part_assignment
             animals.Add("Pig");
             animals.Add("Lion");
             Console.WriteLine("");
+            int l = 0;
             foreach (string count in animals) 
             {
                 int i = 0;
                 bool duplicateCheck = false;
-                while (i <animals.Count)
+                while (i < l)
                 {
+                    //Console.WriteLine(count + " + " + animals[i]);
                     if(count == animals[i])
                     {
                         duplicateCheck = true;
+                        //Console.WriteLine("\nduplicate");
                     }
+                    i++;
                 }
-                if (duplicateCheck)
+               
+                if (!duplicateCheck)
                 {
-                    Console.WriteLine(count);
+                    Console.WriteLine(count + " has not appeared on the list");
                 }
+                else
+                {
+                    Console.WriteLine(count + " has already appeared on the list");
+                }
+                l++;
             }
+            
         }
     }
 }
